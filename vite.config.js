@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/color-changer",
+  base: "/Color-changer/",
 });
